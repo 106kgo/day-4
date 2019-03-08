@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+
+body{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: black
+}
+
+
+.container-fluid{
+    background-color: gray;
+}
+
+
+
+
+@media (max-width: 588px){
+    .container-fluid{
+        background-color: aqua;
+    }
+}
